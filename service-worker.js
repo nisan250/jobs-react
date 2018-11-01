@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/jobs-react.git/precache-manifest.7647ad7ab9e7599d27a2b3700e37183d.js"
+  "/jobs-react/precache-manifest.f4051d596c52a36cc93099c6f0ef5ea0.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/jobs-react.git/index.html", {
+workbox.routing.registerNavigationRoute("/jobs-react/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
