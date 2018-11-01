@@ -2,7 +2,7 @@
   "name": "jobs",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nisan250.github.io/jobs-react",
+  "homepage": "http://nisan250.github.io/jobs-react/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "prop-types": "^15.6.2",
