@@ -82,6 +82,7 @@ class App extends Component {
     const userRole = this.state.user ? this.state.user.role : UserRole.ANONYMOUS;
     const permissions = this.state.user ? this.state.user.permissions : {jobs: {}};
     const isLoggedIn = this.state.user && this.state.user.sessionToken && userRole > UserRole.ANONYMOUS;
+    console.log('sss',process.env.PUBLIC_URL);
     return (
       <ThemeProvider theme={ mainTheme }>
       <div className="App">
