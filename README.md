@@ -1,4 +1,5 @@
 react training
+ook at this [page to see it in action](https://nisan250.github.io/jobs-react/)
 
 first react app using mocked data and API calls, authentication, roles and permissions.
 
