@@ -1,7 +1,6 @@
 react training
 
-first react app using mocked data and API calls.
-authentication, roles and permissions.
+first react app using mocked data and API calls, authentication, roles and permissions.
 
 when login with "admin":
 - can see dashboared
