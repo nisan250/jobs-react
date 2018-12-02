@@ -1,5 +1,17 @@
-react training
+# Jobs App - react
+
+Job Post - an App for Posting Jobs.
 look at this [page to see it in action](https://nisan250.github.io/jobs-react/)
+
+This is an app for managing Events.
+
+# Run This Project
+
+to run this project:
+click this link https://nisan250.github.io/jobs-react/
+
+
+# How To Use
 
 first react app using mocked data and API calls, authentication, roles and permissions.
 
